@@ -20,14 +20,3 @@ The goal of this project is to accurately estimate how long users will listen to
     * **Validation Strategy:** K-Fold Cross-Validation to validate performance against the target variable (`Listening_Time_minutes`).
 3.  **Evaluation Metric:**
     * The model is evaluated based on **Root Mean Squared Error (RMSE)**, which is the standard evaluation metric for this specific Kaggle competition.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed along with the following standard data science libraries:
-
-```bash
-pip install pandas numpy scikit-learn xgboost jupyter
-
-```
